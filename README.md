@@ -5,7 +5,7 @@ By Isha Simran
 
 - [GitHub Repo](https://github.com/IshaSimran/cpnt260-a1)
 
-The main goal of this site was to create a website for a client who is running an independent fitness program/business, and needs to be able to easily book new clients and interact with them. This site is also to be used for the client to be able to display all of what they offer.
+The main goal of this site was to create a website for a client who is running an independent fitness program/business, and needs to be able to easily book new clients and interact with them. This site is also to be used for the client to be able to display all of what they are offering.
 
 ## Attributions
 

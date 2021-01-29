@@ -9,11 +9,8 @@
 
 body {
   background-color: #f2f3f4;
-  background-size: cover;
-  background-position: center center;
 
   font-family: 'Karla', sans-serif;
-  
 }
 
 .site-name {
@@ -21,8 +18,9 @@ body {
   text-align: center;
   font-size: 3rem;
   font-family: 'Karla', sans-serif;
-
-  background-color: orangered;
+  
+  color: white;
+  background-color: black;
 }
 
 .logo img {
@@ -39,13 +37,13 @@ body {
 
   position: relative;
 
-
   display: block;
   padding:0 25px;
 }
 
 .main-menu li {
   list-style-type: none;
+  
   display: inline-block;
 }
 
