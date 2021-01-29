@@ -23,7 +23,7 @@ The main goal of this site was to create a website for a client who is running a
 
 - [Image Gallery Used](https://unsplash.com/s/photos/fitness)
 
-- [Weight Equipment Photo](https://unsplash.com/photos/8DcwvlVXIVw)
+- [Weight Equipment Photo taken by Greg Rosenke](https://unsplash.com/photos/8DcwvlVXIVw)
 
 ### Logos
 - All logos provided by [Iconmonstr](https://iconmonstr.com/)
